@@ -35,7 +35,7 @@ The app follows **MVVM (Model-View-ViewModel)** architecture with clear separati
 - **Local Database**: Room Database
 - **Cloud Storage**: Firebase Firestore
 - **Navigation**: Navigation Component
-- **Dependency Injection**: Manual (via AppContainer)
+- **Dependency Injection**: Hilt
 
 ## Setup Instructions
 
